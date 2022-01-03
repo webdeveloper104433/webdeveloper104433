@@ -1,5 +1,3 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">Talented Full-Stack Engineer</h1>
-
 ## Core skills
 
 - <b>Frontend</b> : React.js, Next.js, Vue.js, Nuxt.js, Gatsby.js, Quasar, Bootstrap, TailwindCSS
